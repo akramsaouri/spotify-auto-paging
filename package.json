@@ -1,6 +1,6 @@
 {
   "name": "spotify-auto-paging",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Auto paginate spotify endpoints.",
   "main": "dist/",
   "scripts": {
